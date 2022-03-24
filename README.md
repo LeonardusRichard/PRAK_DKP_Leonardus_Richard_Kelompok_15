@@ -1,4 +1,1 @@
 # PRAK_DKP_Leonardus_Richard_Kelompok_15
-asfsaf
-fasfas
-fasfas
