@@ -1,18 +1,19 @@
-# Pemrograman Python
-
-# Membeli es srkim
-
-def non_return_func(pelanggan1):
+   # Pemrograman Python
+   # Membeli es krim
+    
+    
+    def non_return_func(pelanggan1):
     print(f"SELAMAT DATANG DI ES KRIM SERBA RASA {pelanggan1} ")
-def return_func(part):
+    def return_func(part):
     print(f"Antrian ke",part)
-function = lambda pelanggan1 : print(f"Silahkan pilih menu {pelanggan1}")
-non_return_func("pelanggan 1")
-return_func(1)
-function("pelanggan 1")
-pilihan1="ya"
-pilihan="tidak"
-while pilihan1 == "ya": 
+    function = lambda pelanggan1 : print(f"Silahkan pilih menu {pelanggan1}")
+    non_return_func("pelanggan 1")
+    return_func(1)
+    function("pelanggan 1")
+
+    pilihan1="ya"
+    pilihan="tidak"
+    while pilihan1 == "ya": 
     print("""
     ~~~~~~~~~~~~~~~~~~~~~~
     ES KRIM SERBA RASA
@@ -69,11 +70,10 @@ while pilihan1 == "ya":
     print("--------------------------")
     print("--------------------------")
     pilihan1=input("apakah anda ingin membeli lagi ya / tidak =")
-else: 
-    pilihan == "tidak"
-    print("")
-    print("")
-    print("Terima kasih pelanggan ")
-    print("")
-    print("")
-    
+    else: 
+        pilihan == "tidak"
+        print("")
+        print("")
+        print("Terima kasih pelanggan ")
+        print("")
+        print("")
