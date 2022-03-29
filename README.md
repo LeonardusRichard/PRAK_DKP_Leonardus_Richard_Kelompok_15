@@ -1,10 +1,6 @@
    # Pemrograman Python
    # Membeli es krim
-    Nrmdmd
-Dkdmss
-Ndmsms
-Jddmdm
-Jddmmd
+
     
     def non_return_func(pelanggan1):
     print(f"SELAMAT DATANG DI ES KRIM SERBA RASA {pelanggan1} ")
@@ -22,11 +18,11 @@ Jddmmd
     ~~~~~~~~~~~~~~~~~~~~~~
     ES KRIM SERBA RASA
     ~~~~~~~~~~~~~~~~~~~~~~
-    1. ES krim coklat 
-    2. Es krim vanila 
-    3. Es krim oreo
-    4. Es krim blueberry  
-    5. Es krim stawberry 
+    1. ES krim coklat1
+    2. Es krim vanila 2
+    3. Es krim oreo3
+    4. Es krim blueberry  4
+    5. Es krim stawberry 5
     ~~~~~~~~~~~~~~~~~~~~~~
     """)
     
