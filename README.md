@@ -1,6 +1,10 @@
    # Pemrograman Python
    # Membeli es krim
-    
+    Nrmdmd
+Dkdmss
+Ndmsms
+Jddmdm
+Jddmmd
     
     def non_return_func(pelanggan1):
     print(f"SELAMAT DATANG DI ES KRIM SERBA RASA {pelanggan1} ")
